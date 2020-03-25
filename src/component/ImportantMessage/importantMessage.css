@@ -1,0 +1,21 @@
+.imContainer {
+    --imContainer-height: 100px;
+    height: var(--imContainer-height);
+    width: 100%;
+    background-color: beige;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.imTitle {
+    text-transform: uppercase;
+    font-size: 1.4rem;
+    font-weight: bolder;
+}
+
+.imText {
+    line-height: 1.5rem;
+    width: 60%;
+}

@@ -1,0 +1,140 @@
+.katawanContainer {
+    display: flex;
+    flex-direction: column;
+}
+
+.katawanHeader {
+    /* width: 100vw; */
+    height: 65vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: aquamarine;
+    opacity: 1;
+}
+
+.katawanHeaderContent {
+    width: 35vw;
+}
+
+.katArticleContainer {
+    height: 35vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.katArticle {
+    width: 60%;
+    height: 30vh;
+    display: flex;
+    margin: 10px 0px;
+}
+
+.katArticleDetails {
+    flex-basis: 60%;
+    display: flex;
+    flex-direction: column;
+    text-align: start;
+}
+
+.katArticleDetails h1 {
+    color: #249FA5;
+}
+
+.katArticleText {
+    line-height: 1.8em;
+}
+
+.separator {
+    height: 10vh;
+    background-color: #249FA5;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.separatorContentContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    height: auto;
+    padding: 0 22.5% 0 22.5%;
+}
+
+.katArticleImage {
+    flex-basis: 30%;
+    height: 25vh;
+    margin: 0px 20px;
+    background-color: bisque;
+}
+
+.separatorText {
+    text-align: justify;
+    line-height: 1.8rem;
+}
+
+.separatorHeader {
+    font-size: 24px;
+    font-weight: bolder;
+    color: #249FA5;
+    margin-top: 50px;
+    text-align: left;
+    margin-bottom: 20px;
+}
+
+.puntaNa {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.puntaNaText {
+    color: #249FA6;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.puntaNaBtn {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 120px;
+    height: 40px;
+    font-style: italic;
+    border-radius: 7px;
+    background-color: #B0D264;
+}
+
+.phiContentContainer {
+    display: flex;
+    flex-direction: column;
+}
+
+.phiAboutItems {
+    display: flex;
+    margin-top: 100px;
+}
+
+.phiItems {
+    padding: 0 60px 0 60px;
+}
+
+.phiItemTitle {
+    font-size: 20px;
+    color: #249FA6;
+    font-weight: bold;
+}
+
+.phiItemText {
+    font-size: 16px;
+    line-height: 23px;
+}

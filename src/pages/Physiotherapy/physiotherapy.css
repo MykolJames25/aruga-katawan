@@ -1,0 +1,115 @@
+.physiotherapyContainer {
+    display: flex;
+    flex-direction: column;
+}
+
+.physiotherapyHeader {
+    /* width: 100vw; */
+    height: 65vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: aquamarine;
+    opacity: 1;
+}
+
+.physiotherapyHeaderContent {
+    width: 35vw;
+}
+
+.psyArticleContainer {
+    height: 35vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.psyArticle {
+    width: 60%;
+    height: 30vh;
+    display: flex;
+    margin: 10px 0px;
+}
+
+.psyArticleDetails {
+    flex-basis: 60%;
+    display: flex;
+    flex-direction: column;
+    text-align: start;
+}
+
+.psyArticleDetails h1 {
+    color: #249FA5;
+}
+
+.psyArticleText {
+    line-height: 1.8em;
+}
+
+.separator {
+    height: 10vh;
+    background-color: #249FA5;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.separatorContentContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    height: auto;
+    padding: 0 22.5% 0 22.5%;
+}
+
+.psyArticleImage {
+    flex-basis: 30%;
+    height: 25vh;
+    margin: 0px 20px;
+    background-color: bisque;
+}
+
+.separatorText {
+    text-align: justify;
+    line-height: 1.8rem;
+}
+
+.separatorHeader {
+    font-size: 24px;
+    font-weight: bolder;
+    color: #249FA5;
+    margin-top: 50px;
+    text-align: left;
+    margin-bottom: 20px;
+}
+
+.puntaNa {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.puntaNaText {
+    color: #249FA6;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.puntaNaBtn {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 120px;
+    height: 40px;
+    font-style: italic;
+    border-radius: 7px;
+    background-color: #B0D264;
+}

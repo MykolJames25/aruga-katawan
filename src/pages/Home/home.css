@@ -1,0 +1,51 @@
+.homeContainer {
+    display: flex;
+    height: 100vh;
+    padding: 0 5vw 0 5vw;
+    align-items: center;
+}
+
+.videoBackground {
+    object-fit: scale-down;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    /*not work if the screen ratio is below 16/9*/
+    width: 100%;
+    height: auto;
+}
+
+.homeArticle {
+    display: flex;
+    align-items: flex-start;
+    text-align: start;
+    flex-direction: column;
+    width: 40%;
+}
+
+.articleTitle {
+    font-weight: bolder;
+    font-size: 3vw;
+    margin-bottom: 20px;
+}
+
+.articleText {
+    line-height: 1.5rem;
+    margin-bottom: 20px;
+}
+
+.articleBtn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 150px;
+    height: 50px;
+    border-radius: 7px;
+    background-color: #B0D264;
+}
+
+.articleBtn:hover {
+    background-color: #B0D264;
+    opacity: 70%;
+}
