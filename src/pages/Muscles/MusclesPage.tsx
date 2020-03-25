@@ -1,5 +1,4 @@
 import React from 'react';
-import ImportantMessage from '../../component/ImportantMessage/ImportantMessage';
 import './muscles.css';
 import { Link } from 'react-router-dom';
 
