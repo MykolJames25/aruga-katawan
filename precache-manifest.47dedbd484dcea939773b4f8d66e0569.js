@@ -1,23 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "684acd2c4dd0aef53bb52242e71fdc02",
+    "revision": "8f2a9ea4aa12531c1c34a82beb1eeaf0",
     "url": "/aruga-katawan/index.html"
   },
   {
-    "revision": "541b03a957ff5359aef8",
-    "url": "/aruga-katawan/static/css/main.76db0590.chunk.css"
+    "revision": "7206c6fe6c25d3318655",
+    "url": "/aruga-katawan/static/css/2.d0e2e16d.chunk.css"
   },
   {
-    "revision": "fd461ee7e8bf1293bdc2",
-    "url": "/aruga-katawan/static/js/2.9ff846b3.chunk.js"
+    "revision": "eb42c80c39b52c39e11d",
+    "url": "/aruga-katawan/static/css/main.30cfc6d0.chunk.css"
   },
   {
-    "revision": "f231859d6585c4cd5f80c344783ed269",
-    "url": "/aruga-katawan/static/js/2.9ff846b3.chunk.js.LICENSE.txt"
+    "revision": "7206c6fe6c25d3318655",
+    "url": "/aruga-katawan/static/js/2.2027eef0.chunk.js"
   },
   {
-    "revision": "541b03a957ff5359aef8",
-    "url": "/aruga-katawan/static/js/main.9602f08f.chunk.js"
+    "revision": "c471c91826a03f9cf1b71c65ec5e658b",
+    "url": "/aruga-katawan/static/js/2.2027eef0.chunk.js.LICENSE.txt"
+  },
+  {
+    "revision": "eb42c80c39b52c39e11d",
+    "url": "/aruga-katawan/static/js/main.cf438698.chunk.js"
   },
   {
     "revision": "cd71e69dee60f17966d0",
@@ -74,6 +78,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3cacd6bf236e6bc8bcd1caa76ed7890f",
     "url": "/aruga-katawan/static/media/inj_baywang-01.3cacd6bf.svg"
+  },
+  {
+    "revision": "10bec989c640a7a210c09152d2330a52",
+    "url": "/aruga-katawan/static/media/inj_bukod-01.10bec989.svg"
   },
   {
     "revision": "467ea2b48b5bfb030164c865fbd78298",
