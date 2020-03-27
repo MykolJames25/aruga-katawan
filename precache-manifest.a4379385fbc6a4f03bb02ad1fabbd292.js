@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "64bcf62946a3aec9e7a7cccc14022071",
+    "revision": "5edd67934f9b911f48e5d2c421178c7e",
     "url": "/aruga-katawan/index.html"
   },
   {
-    "revision": "62dc812e9ae88a429636",
+    "revision": "4d2e2230f8d73b225acb",
     "url": "/aruga-katawan/static/css/main.76db0590.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/aruga-katawan/static/js/2.9ff846b3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "62dc812e9ae88a429636",
-    "url": "/aruga-katawan/static/js/main.bcb7fa24.chunk.js"
+    "revision": "4d2e2230f8d73b225acb",
+    "url": "/aruga-katawan/static/js/main.9b821b9e.chunk.js"
   },
   {
     "revision": "cd71e69dee60f17966d0",

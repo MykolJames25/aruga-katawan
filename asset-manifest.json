@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/aruga-katawan/static/css/main.76db0590.chunk.css",
-    "main.js": "/aruga-katawan/static/js/main.bcb7fa24.chunk.js",
-    "main.js.map": "/aruga-katawan/static/js/main.bcb7fa24.chunk.js.map",
+    "main.js": "/aruga-katawan/static/js/main.9b821b9e.chunk.js",
+    "main.js.map": "/aruga-katawan/static/js/main.9b821b9e.chunk.js.map",
     "runtime-main.js": "/aruga-katawan/static/js/runtime-main.693c7ed2.js",
     "runtime-main.js.map": "/aruga-katawan/static/js/runtime-main.693c7ed2.js.map",
     "static/js/2.9ff846b3.chunk.js": "/aruga-katawan/static/js/2.9ff846b3.chunk.js",
     "static/js/2.9ff846b3.chunk.js.map": "/aruga-katawan/static/js/2.9ff846b3.chunk.js.map",
     "index.html": "/aruga-katawan/index.html",
-    "precache-manifest.0df8ecffeca487625a1fcee44743e0c7.js": "/aruga-katawan/precache-manifest.0df8ecffeca487625a1fcee44743e0c7.js",
+    "precache-manifest.a4379385fbc6a4f03bb02ad1fabbd292.js": "/aruga-katawan/precache-manifest.a4379385fbc6a4f03bb02ad1fabbd292.js",
     "service-worker.js": "/aruga-katawan/service-worker.js",
     "static/css/main.76db0590.chunk.css.map": "/aruga-katawan/static/css/main.76db0590.chunk.css.map",
     "static/js/2.9ff846b3.chunk.js.LICENSE.txt": "/aruga-katawan/static/js/2.9ff846b3.chunk.js.LICENSE.txt",
@@ -44,6 +44,6 @@
     "static/js/runtime-main.693c7ed2.js",
     "static/js/2.9ff846b3.chunk.js",
     "static/css/main.76db0590.chunk.css",
-    "static/js/main.bcb7fa24.chunk.js"
+    "static/js/main.9b821b9e.chunk.js"
   ]
 }
