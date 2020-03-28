@@ -1,0 +1,15 @@
+.footer {
+    margin-top: 10px;
+    height: var(--headerHeight);
+    background-color: #249FA6;
+    padding: 0 5vw 0 5vw;
+    display: flex;
+    align-items: center;
+}
+
+.credits {
+    font-style: italic;
+    color: white;
+    text-align: right;
+    margin-left: auto;
+}

@@ -1,0 +1,266 @@
+[{
+        "id": 0,
+        "injuryName": "Leeg",
+        "injuryDetails": [{
+                "img": "",
+                "title": "Myofascial Pain Syndrome (Lamig-lamig)",
+                "detail": "Ang myofascial pain syndrome, o lamig-lamig, ay ang kondisyon kung saan sumasakit ang ating mga muscle sa iba't ibang partikular na parte ng ating katawan kapag natatamaan ang mga 'trigger points' o lamig-lamig . Nangyayari itong injury na ito kapag masyadong nabugbog ang ating mga muscle sa kakagamit nito. Kapag paulit-ulit ang paggamit ng mga muscle natin at hindi natin naalaga katawan natin, nagkakaroon ng mga lamig-lamig ang leeg natin hanggang sa likod at patuloy itong sumasakit kapag hindi inagapan kaagad.",
+                "cause": {
+                    "detail": "Ito ang mga dahilan bakit nagkakaroon ng lamig-lamig ang ating mga muscle:",
+                    "list": ["Hindi normal na pagtayo", "Matagalang pag-uupo", "Kulang sa tulog", "Kulang sa ehersisyo", "Kapaguran sa trabaho o iba pang stress", "Katabaan", "Paninigarilyo"]
+                },
+                "symptoms": {
+                    "detail": "Ang mga sintomas ng myofascial pain syndrome ay ang mga sumusunod:",
+                    "list": ["Hindi nawawalang sakit sa partikular na parte ng katawan", "Pagkahirap sa pag-tulog", "Mabilisang pag-pagod", "Depresyon", "Pagkahina ng mga muscle"]
+                }
+            },
+            {
+                "img": "",
+                "title": "Torticollis (Pasmadong Leeg)",
+                "detail": "Ang torticollis, o pasmadong leeg, ay ang nangyayari kapag nabaluktot o dumiperensya ang galaw ng mga muscles sa leeg. Dahil dito, nagkakaroon ng kasakitan sa leeg at sa ulo dahilanan ng hindi pantay na posisyon ng ulo o leeg. Maaaring mayroon ka nang torticollis noong sanggol ka pa, o pagkatapos mo makatamo ng injury sa iyong mga muscle o sa iyong ulo at buto sa likod (gulugod). Kapag pinanganak ka nang baluktot ang leeg o ulo, ang uri ng torticollis mo ay congenital, o 'born with'. ",
+                "cause": {
+                    "detail": "Maaaring minana mo ang torticollis sa iyong mga magulang pero pwede mo rin ito matamo dahil sa ibang pangyayari katulad ng:",
+                    "list": ["Maling posisyon sa pagtulog", "Impeksyon", "Trauma sa muscles sa ulo o leeg dahil sa pagka-bugbog nito", "Side-effect ng ibang mga gamot", "pagkabugbog ng 'spine' o buto sa likod"]
+                },
+                "symptoms": {
+                    "detail": "Ang pwedeng sintomas ng pagkakaroon ng torticollis ay ang mga sumusunod:",
+                    "list": ["Masakit ang leeg at ulo", "Baluktot ang posisyon ng ulo", "Baluktot ang posisyon ng baba", "Namamaga ang leeg", "Mahirap galawin ang ulo"]
+                }
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "injuryName": "Balikat",
+        "injuryDetails": [{
+                "img": "",
+                "title": "Frozen Shoulder",
+                "detail": "Ang frozen shoulder ay ang pag-titigas at pagkakaroon ng sakit sa kasukasuan ng balikat. Ang karaniwang frozen shoulder ay tumatagal ng 1-3 years na kasakitan bago mawala. Sa frozen shoulder, ang mga buto at muscle mo sa balikat ay kumakapal at sumisikip kaya nagkakaroon ng paghihirap sa paggalaw ng buong balikat.",
+                "cause": {
+                    "detail": "Hindi rin malinaw kung bakit nagkakaroon bigla ang mga tao ng frozen shoulder, ngunit may mga kasakitan na maaaring magdulot dito. Mas malaki ang tyansa ng babae na makakuha ng frozen shoulder kaysa sa mga lalaki, mas lalo na sa may mga edad na. Ang iba pang dahilan ay:",
+                    "list": ["Pagbawal sa paggalaw ng shoulder dulot ng operasyon nito ", "Pagbali ng braso", "Pagkaroon ng stroke", "Diabetes", "Tuberculosis"]
+                },
+                "symptoms": {
+                    "detail": "Tatlo ang yugto ng frozen shoulder: ang freezing stage, frozen stage, at thawing stage.",
+                    "list": ["Freezing stage - masakit na balikat, pagkahirap sa galaw ng balikat", "Frozen stage - Halos hindi na magalaw ang balikat", "Thawing stage - kaunting ginhawa kapag ginagalaw ang balikat, nawawala ang tigas ng balikat"]
+                }
+            },
+            {
+                "img": "",
+                "title": "Acromioclavicular (AC) Joint Sprain",
+                "detail": "Nagkakaroon ng sprain ang balikat kapag napupununit ang mga ligamento nito. Ang Acromioclavicular joint ay matatagpuan sa taas ng ating balikat, sa gitna ng balagat (collarbone) at ng paypay (scapula). Ito ay mahalaga sa pagbubuhat, pagtutulak at paghihila na galaw. Maaaring mapunit ang AC joint dahil sa sobrang paggamit ng ating mga muscles at sa pabaya nito.",
+                "cause": {
+                    "detail": "Ang mga dahilan kung bakit nagkakaroon ng AC joint sprain ay:",
+                    "list": ["Pag-tama o pagbangga ng balikat sa matitigas na kagamitan kagaya ng paghulog sa bisikleta ", "Maling pagbagsak ng katawan", "Pagbubuhat ng mabibigat"]
+                },
+                "symptoms": {
+                    "detail": "Ang mga sintomas ng AC joint sprain ay:",
+                    "list": ["Sakit sa taas ng balikat", "Pagmaga ng balikat", "Paghirap sa paggalaw ng balikat", "Pagmaga ng balagat"]
+                }
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "injuryName": "Siko",
+        "injuryDetails": [{
+                "img": "",
+                "title": "Tennis Elbow",
+                "detail": "Ang tennis elbow ay isang strain kondisyon kung saan ang panlabas na bahagi ng siko ay masakit at malambot dahil sa madalasang paggamit nito. Namamaga ang mga ugat o litid (tendon) na kumakabit sa bisig (forearm) at siko. Dahil sa paulit-ulit na galaw na ginagawa ng siko, kaunti-unting napupunit ito hanggang sa tuluyang sumakit ang bunog siko.",
+                "cause": {
+                    "detail": "Nagkakaroon ang isang tao ng tennis elbow dahil:",
+                    "list": ["Paulit-ulit na galaw ng siko at braso", "Sobrang paggamit ng muscle sa siko at buong braso", "Kahit anong aktibidad na kinakailangan ang buong bisig"]
+                },
+                "symptoms": {
+                    "detail": "Ang sintomas ng tennis elbow ay ang:",
+                    "list": ["Masakit na siko", "Paghina ng buong braso", "Namamaga ang siko", "Mahina ang pagkakahawak ng kamay", "Mahina ang mga muscles sa pulso (wrist)"]
+                }
+            },
+            {
+                "img": "",
+                "title": "Annular Ligament Sprain",
+                "detail": "Ang Annular ligament sprain ay ang pag-iinat (stretch) o pagpupunit ng ligamento sa siko. Kung sa tennis elbow namamaga ang litid na kumakabit sa siko at sa bisig, sa annular ligament sprain naman namamaga ang ligamento na kumakabit sa dalawang buto sa bisig upang maiayos ang mga buto na ito sa siko.",
+                "cause": {
+                    "detail": "Ang mga dahilan sa pagkakaroon ng annular ligament sprain ay:",
+                    "list": ["Paulit-ulit na galaw ng siko at braso", "Sobrang paggamit ng muscles sa siko at buong braso", "Pagkakaroon ng dislokasyon sa siko"]
+                },
+                "symptoms": {
+                    "detail": "Ang maaaring sintomas ng annular ligament sprain ay:",
+                    "list": ["Masakit ang tagiliran ng siko", "Masakit kapag nagtatapon", "Mahina ang braso"]
+                }
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "injuryName": "Pulso",
+        "injuryDetails": [{
+                "img": "",
+                "title": "TFCC Sprain",
+                "detail": "Ang TFCC o ang triangular fibrocartilage complex ay matatagpuan sa iyong buto sa bisig. Bilang isang complex, ito ay binubuo ng napakaraming ligamento at litid at tumutulong ito sa paggalaw ng ating mga pulso at kamay. Ito rin ang nag-sasaayos ng buto sa bisig kapag tayo ay humahawak o nagpapaikot ng bisig. Ang pagka-sprain ng TFCC ay ang pagpupunit o pamamaga ng mga ligamento at litid ng TFCC.",
+                "cause": {
+                    "detail": "Dalawa ang pangunahing dahilan ng pagkakaroon ng TFCC Sprain:",
+                    "list": ["Type 1 - Kapag natrauma ang TFCC dahil sa injury na naganap sa kamay", "Type 2 - Kapag ang TFCC ay kaunti-unting napupunit dahil sa edad o iba pang kondisyon kagaya ng gout at arthritis", "sdfsdf'"]
+                },
+                "symptoms": {
+                    "detail": "Ang mga sintomas ng pagkakaroon ng TFCC Sprain ay:",
+                    "list": ["Masakit ang pulso kapag ito ay ginalaw", "Tumutunog ang pulso kapag ginagalaw", "Pamamaga ng pulso", "Mahina ang paghawak"]
+                }
+            },
+            {
+                "img": "",
+                "title": "Carpal Tunnel",
+                "detail": "Ang carpal tunnel syndrome ay isang uri ng pamamaga sa kamay kung saan naiipit ang mga ugat sa mga kamay. Ang pagmamaga ng mga litid sa kamay ay siyang nag-iipit ng ugat nito kaya nagkakaroon ng maga, sakit, at paghihina ng buong kamay.",
+                "cause": {
+                    "detail": "Bagamat may pag-aaral na nagsasabing mas maraming nakakakuha ng carpal tunnel ang mga babae at matatanda, mayroon ring mga dahilan para magkaroon ng carpal tunnel kagaya ng:",
+                    "list": ["Paulit-ulit na paggamit ng kamay", "Nasobrahang pag-unat ng kamay at pulso", "Diabetes", "Arthritis"]
+                },
+                "symptoms": {
+                    "detail": "Ang mga sintomas ng carpal tunnel syndrome ay maaaring:",
+                    "list": ["Masakit ang kamay, mas lalo na ang mga daliri", "Nakukuryenteng karamdaman sa kamay", "Mahina ang paghawak"]
+                }
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "injuryName": "Daliri",
+        "injuryDetails": [{
+                "img": "",
+                "title": "Jammed Finger",
+                "detail": "Ang jammed finger ay nangyayari kapag ang daliri ay natamaan at naipit pabalik sa direksyon ng kamay. Dahil dito, nagkaroon ng pag-iinat o pagpupunit sa ligamento sa gitna ng daliri kaya ito ay namamaga.",
+                "cause": {
+                    "detail": "Ang dahilan sa pagkakaroon ng jammed finger ay:",
+                    "list": ["Natamaan ang daliri sa isang bagay nang malakas"]
+                },
+                "symptoms": {
+                    "detail": "Ang sintomas sa jammed finger ay:",
+                    "list": ["Masakit ang mga daliri", "Namamaga ang daliri", "Mahirap na i-diretso ang daliri", "Mahina ang mga daliri", "Mahina ang paghawak", "Namumula ang daliri"]
+                }
+            },
+            {
+                "img": "",
+                "title": "Finger Ligament Sprain",
+                "detail": "Kapag ikaw ay 'na-finger' dahil natamaan ang daliri sa anumang bagay, finger ligament sprain ang tawag doon. Nangyayari ang finger ligament sprain kapag ang mga ligamento na nagdidikit sa mga buto at kasukasuan ng daliri ay napupunit. ",
+                "cause": {
+                    "detail": "Ang natatanging dahilan ng finger ligament sprain ay kapag natamaan ito sa anumang bagay sa paligid at naipit ang daliri. Maaari ito makuha sa: ",
+                    "list": ["Pagbubuhat ng gamit", "Pagbagsak ng katawan", "Naipit sa ibang bagay"]
+                },
+                "symptoms": {
+                    "detail": "Ang sintomas ng finger ligament sprain ay",
+                    "list": ["Masakit ang daliri", "Namamaga at namumula ang daliri", "Mahirap i-diretso ang daliri", "Mahirap galawin ang daliri"]
+                }
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "injuryName": "Likod",
+        "injuryDetails": [{
+                "img": "",
+                "title": "Scoliosis",
+                "detail": "Ang scoliosis ay ang kondinsyon kung saan nagkakaroon ng abnormal na kurba ang buto sa likod (spine). Ang normal na buto sa likod ay may kurba sa taas ng balikat at sa babang likod ng katawan. Ang pagkakaroon ng kurba na patagilid sa katawan ay ang siyang tinatawag na scoliosis. ",
+                "cause": {
+                    "detail": "80% ng mga taong may scoliosis ay walang dahilan kung bakit nagkaroon sila. Subalit, ang mga natural na dahilan ng scoliosis ay:",
+                    "list": ["Congenital, o 'born with'", "diperensya sa nervous system", "Minana sa pamilya", "trauma dahil sa injury ng buto sa likod"]
+                },
+                "symptoms": {
+                    "detail": "Ang mga sintomas ng scoliosis ay:",
+                    "list": ["Hindi pantay ang mga balikat", "Hindi pantay ang baywang", "Baluktot ang buto sa likod"]
+                }
+            },
+            {
+                "img": "",
+                "title": "Lumbar Sprain",
+                "detail": "Ang lumbar sprain ay ang pagkakaroon ng maga sa babang likod (lower back) dahil sa pag-iinat o pagpupunit ng mga ligamento nito. Ang babang likod ay ang siyang nagbubuhat ng katawan kapag naglalakad, tumatakbo, nagbubuhat at iba pa.",
+                "cause": {
+                    "detail": "Nangyayari ang lumbar sprain dahil sa madalas na paggamit nito kapag tayo ay gumagawa ng kahit anong aktibidad. Kagaya lang nito ang:",
+                    "list": ["Pagbubuhat ng mabigat", "Pagtakbo at paglakad", "Pagbagsak sa likod", "Maling posisyon ng katawan", "Katabaan", "Pagkabuntis", "Hindi malusog na pamumuhay"]
+                },
+                "symptoms": {
+                    "detail": "Ang sintomas ng pagkakaroon ng lumbar sprain ay:",
+                    "list": ["masakit ang babang likod kapag ginagalaw ang katawan o hindi", "Masakit kapag tumatayo ng matuwid o nakaupo", "Mahirap maglakad"]
+                }
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "injuryName": "Baywang",
+        "injuryDetails": [{
+            "img": "",
+            "title": "Piripormis Syndrome",
+            "detail": "Ang piriformis syndrome ay isang kondisyon kung humihilab o pumapasma ang ating pwetan kaya ito sumasakit. Ang piriformis muscle ay matatagpuan sa ating pwetan at ang biglaang paggalaw nito ay ang dahilan ng pagkaroon ng sakit sa baywang hanggang sa paa.",
+            "cause": {
+                "detail": "Ang piriformis syndrome ay pwede mangyari kapag:",
+                "list": ["Sobrang paggamit ng mga muscle sa paa", "Diretsong pagtama sa piriformis muscle"]
+            },
+            "symptoms": {
+                "detail": "Ang sintomas na maaaring mangyari kapag may piriformis syndrome ay:",
+                "list": ["Masakit ang baywang at pwet", "Masakit ang likuran ng hita at paa", "masakit pag umaakyat o bumababa ng hagdan", "Masakit kapag nakaupo ng matagal"]
+            }
+        }]
+    },
+    {
+        "id": 7,
+        "injuryName": "Tuhod",
+        "injuryDetails": [{
+                "img": "",
+                "title": "ACL Injury",
+                "detail": "Ang anterior cruciate ligament (ACL) injury ay ang pag-iinat o pagpupunit ng ACL dahil sa biglaang paggalaw nito. Ang ACL ay ang ligamento na nagdidikit ng mga buto sa iyong tuhod upang sila ay nasa tamang posisyon.",
+                "cause": {
+                    "detail": "Ang dahilan ng pagkakaroon ng ACL Injury ay:",
+                    "list": ["Biglaang pag-iba ng direksyon habang gumagalaw ng mabilis", "Biglaang paghinto pagkatapos tumakbo", "Maling pagbaba matapos tumalon", "Direktong tinamaan ang tuhod"]
+                },
+                "symptoms": {
+                    "detail": "Ang pwedeng sintomas ng ACL injury ay:",
+                    "list": ["Tumutunog o nag-'pop' ang tuhod kapag ginagalaw", "Namamaga ang buong tuhod, mas lalo na sa harap", "Masakit ang tuhod", "Maaaring hindi makalakad ng maayos", "Hindi mai-bend o magalaw ang paa"]
+                }
+            },
+            {
+                "img": "",
+                "title": "Patellar Tendinitis (Jumper's Knee)",
+                "detail": "Ang patellar tendonitis ay isang kondisyon kung saan ang litid na nagdidikit sa patella (kneecap) sa butunlulod o ang tibya (shinbone) ay nag-inat o napunit dahil sa stress na ginanap ng tuhod. ",
+                "cause": {
+                    "detail": "Sobrang stress sa tuhod dulot ng paggamit nito ang pangunahing dahilan ng jumper's knee. Sa pagtakbo, pagtalon, pagbuhat mararamdaman ang pag-kaunting sira ng patella pero maaaring dahilan rin nito ay:",
+                    "list": ["Hindi pantay ang kalakasan ng mga paa", "Hindi pantay ang paa at tuhod", "Katabaan", "Hindi maayos ang talampakan ng anumang suot sa paa", "Arthritis"]
+                },
+                "symptoms": {
+                    "detail": "Medyo parehas lang ang sintomas ng patellar tendonitis sa ACL Injury. Ang sintomas ng patellar tendonitis ay ang:",
+                    "list": ["Masakit ang harap ng tuhod", "Namamaga ang tuhod", "Mahirap igalaw ang tuhod", "Mahirap mai-bend o igalaw ang paa"]
+                }
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "injuryName": "Bukung-Bukong",
+        "injuryDetails": [{
+                "img": "",
+                "title": "Ankle Sprain (Pilay)",
+                "detail": "Ang ankle sprain o napilayan na paa/bukud-bukod ay ang nangyayari kapag bumaluktot o umikot ang bukung-bukong (ankle) sa abnormal na paraan. Dahil nasobrahan ang pag-baluktot nito, maaaring mag-inat o mapunit ang mga ligamento na nag-aayos sa posisyon ng bukung-bukong.",
+                "cause": {
+                    "detail": "Ang dahilan ng pagkakaroon ng pilay sa bukud-bukod ay:",
+                    "list": ["Maling bagsak sa paa", "Natamaan o natapakan ang paa", "Maling pagbaba pagkatapos tumalon", "Pagbaluktot ng paa"]
+                },
+                "symptoms": {
+                    "detail": "Ang maaaring sintomas ng ankle sprain ay:",
+                    "list": ["Masakit ang paa", "Namamaga ang paa", "Namumula o umiitim ang balat ng natamaan", "Mahirap galawin ang paa", "Mahirap maglakad"]
+                }
+            },
+            {
+                "img": "",
+                "title": "Achilles Tendinitis",
+                "detail": "Ang Achilles tendinitis ay ang pag-iinat o pagpupunit ng achilles tendon. Ang achilles tendon ay ang nagdidikit ng muscles sa likod ng paa at sakong ng paa. Ito ay gumagana kapag naglalakad, tumatakbo at tumatalon.",
+                "cause": {
+                    "detail": "Ang achilles tendinitis ay nangyayari dahil sa:",
+                    "list": ["Sobrang stress sa achilles tendon dahil sa sobrang paggamit nito", "Natapakan ang sakong ng paa", "Nasisira habang tumatanda", "Hindi maayos ang suot sa paa", "Biglaang paggalaw ng katawan"]
+                },
+                "symptoms": {
+                    "detail": "May kaparehas rin na sintomas ito sa ankle spraisn. Ang mga sintomas ng achilles tendinitis ay ang mga sumusunod:",
+                    "list": ["Masakit ang likod ng paa", "Mahirap galawin ang paa", "Namamaga ang sakong ng paa"]
+                }
+            }
+        ]
+    }
+]

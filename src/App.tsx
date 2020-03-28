@@ -8,6 +8,8 @@ import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import Physiotherapy from './pages/Physiotherapy/PhysiotherapyPage';
 import Muscles from './pages/Muscles/MusclesPage';
 import Remedies from './pages/Remedies/RemediesPage';
+import Injuries from './pages/Injuries/InjuriesPage';
+import HanapPT from './pages/HanapPT/HanapPT';
 
 
 function App() {
@@ -16,12 +18,14 @@ function App() {
       <div className="App">
         <Nav />
         <Switch>
-          <Route path="/" exact component={Home} />
-          <Route path="/physiotherapy" component={Physiotherapy} />
-          <Route path="/katawan" component={Muscles} />
-          <Route path="/remedyo" component={Remedies} />
-          <Route path="/about" component={About} />
-          <Route path="/hanap-pt" component={Articles} />
+          <Route path="/aruga-katawan/" exact component={Home} />
+          <Route path="/aruga-katawan/physiotherapy" component={Physiotherapy} />
+          <Route path="/aruga-katawan/katawan" component={Muscles} />
+          <Route path="/aruga-katawan/injuries" component={Injuries} />
+          <Route path="/aruga-katawan/remedyo" component={Remedies} />
+          <Route path="/aruga-katawan/about" component={About} />
+          <Route path="/aruga-katawan/hanap-pt" component={Articles} />
+          <Route path="/aruga-katawan/location" component={HanapPT} />
         </Switch>
       </div>
     </Router>

@@ -1,0 +1,74 @@
+.articlesContainer {
+    /* padding-top: var(--headerHeight); */
+    display: flex;
+    flex-direction: column;
+}
+
+.articleHeader {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    background-image: url("../../img/pt_bg-01.svg");
+    background-size: cover;
+    opacity: 1;
+}
+
+.articleHeaderContent {
+    text-shadow: 3px 3px 10px black;
+    width: 40vw;
+    padding-left: 5vw;
+    text-align: start;
+}
+
+.articleHeaderTitle {
+    font-size: 40px;
+    font-weight: bold;
+    color: white;
+}
+
+.articleHeaderText {
+    color: white;
+}
+
+.articleHeaderContentSelect {
+    width: 50vw;
+    height: 100%;
+    padding-left: 5vw;
+    padding-right: 5vw;
+    display: flex;
+    flex-direction: column;
+    /* align-items: center; */
+    justify-content: center;
+}
+
+.articleSelectItem {
+    background-color: rgba(0, 0, 0, 0.5);
+    margin: 5vh 0 5vh 0;
+    height: 30vh;
+    display: flex;
+    flex-direction: row;
+    cursor: pointer;
+}
+
+.articleSelectItemText {
+    flex-basis: 50%;
+    text-align: justify;
+    padding: 5vh 0 5vh 3vw;
+}
+
+.articleSelectItemImage {
+    flex-basis: 40%;
+    margin-left: 3vw;
+    /* background-color: green; */
+}
+
+.articleSelectItemTitle {
+    color: white;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.articleSelectItemDetail {
+    margin-top: 10px;
+    color: white
+}

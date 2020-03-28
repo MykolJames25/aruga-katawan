@@ -1,8 +1,8 @@
 .aboutHeaderContainer {
     display: flex;
     height: 100vh;
-    background-color: aquamarine;
-    /* padding: 0 5vw 0 5vw; */
+    background-image: url("../../img/about_bg-01.svg");
+    background-size: cover;
     align-items: center;
     justify-content: flex-start;
 }
@@ -14,6 +14,7 @@
     align-items: flex-start;
     justify-content: center;
     width: 35%;
+    color: white;
 }
 
 .aboutTitle {
@@ -25,6 +26,10 @@
 .aboutText {
     line-height: 1.5rem;
     text-align: justify;
+}
+
+.itemImg {
+    height: 200px;
 }
 
 .aboutContentContainer {

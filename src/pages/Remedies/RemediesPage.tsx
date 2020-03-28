@@ -1,5 +1,6 @@
 import React from 'react';
 import './remedies.css';
+import Footer from '../../component/Footer/Footer';
 
 function Remedies() {
   return (
@@ -15,6 +16,7 @@ function Remedies() {
           Gamit ng katawan sa baba, hanapin lamang at pindutin mo kung saan mo nararanasan ang sakit upang malaman ang mga dapat gawin para guminhawa ito. Tara at subukan na!
         </div>
       </div>
+      <Footer />
     </div>
   );
 }
