@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/aruga-katawan/precache-manifest.67832c06ab9a84a158c1254511c08cf2.js"
+  "/aruga-katawan/precache-manifest.b3aef77eb91a5ed3b4309eacb8e85513.js"
 );
 
 self.addEventListener('message', (event) => {
